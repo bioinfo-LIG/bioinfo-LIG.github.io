@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: CompBio@TrEE
+title: Bioinfo @ APTIKAL
 
 # Your name to show in the footer
 author: All of us!
@@ -18,7 +18,6 @@ navbar-links:
   Publications: "publications"
   Software: "software"
   Join Us: "joinus"
-  Intranet: http://tree-bioinfo-intra.timc.fr/website/
 
 # --- Logo --- #
 
@@ -40,9 +39,9 @@ round-avatar: 'false'
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   #email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: tree-TiMC
+  github: bioinfo-LIG/
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
@@ -79,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://tree-timc.github.io/"
+url-pretty: "https:/bioinfo-LIG.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -100,17 +99,19 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#08519C"
-hover-col: "#52adc8"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+navbar-col: "#0D1B2A"        /* bleu nuit élégant et sobre */
+navbar-text-col: "#FFFFFF"   /* texte en blanc pour contraste */
+navbar-border-col: "#0A1520" /* bordure légèrement plus foncée que la navbar */
+
+page-col: "#FFFFFF"          /* fond principal reste blanc */
+text-col: "#404040"          /* texte gris neutre */
+link-col: "#08519C"          /* liens bleus cohérents */
+hover-col: "#52ADC8"         /* hover clair et dynamique */
+
+footer-col: "#0D1B2A"        /* même bleu foncé que la navbar, pour équilibre */
+footer-text-col: "#BBBBBB"   /* texte gris clair, bonne lisibilité sur fond foncé */
+footer-link-col: "#FFFFFF"   /* liens en blanc pour contraste */
+footer-hover-col: "#52ADC8"  /* hover identique à la navbar, pour cohérence */
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
