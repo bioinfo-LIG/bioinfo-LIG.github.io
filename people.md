@@ -12,10 +12,18 @@ subtitle: More about us…
     {% endif %}
 {% endfor %}
 
-## Postdoctoral researcher
+## Postdoctoral researcher 
 
 {% for post in site.peoples %}
     {% if post.position == "postdoc" %}
+        {% include archive-people.html %}
+    {% endif %}
+{% endfor %}
+
+## Research engineer 
+
+{% for post in site.peoples %}
+    {% if post.position == "Research engineer" %}
         {% include archive-people.html %}
     {% endif %}
 {% endfor %}
