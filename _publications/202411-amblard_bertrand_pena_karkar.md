@@ -1,0 +1,11 @@
+---
+title: "A robust workflow to benchmark deconvolution of multi-omic data"
+collection: publications
+permalink: /publication/202411-amblard_bertrand_pena_karkar
+venue: ''
+citation: 'E. Amblard, V. Bertrand, L. M. Pena, S. Karkar <i>et al.</i>. <b>A robust workflow to benchmark deconvolution of multi-omic data</b>, <i></i> November 2024'
+year: '2024'
+Pages: 2024.11.08.622633
+Section: New Results
+paperurl: 'https://www.biorxiv.org/content/10.1101/2024.11.08.622633v1'
+---
