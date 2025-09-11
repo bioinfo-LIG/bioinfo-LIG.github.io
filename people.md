@@ -36,33 +36,27 @@ No interns are currently in the lab!
 
 ## Alumni
 
-Sophie-Carole Chobert (2021-2025, M2 internet, PhD Student) 
-Léa Caruana De Reymonth (2025, M1 intern)  
-Arthur Réveillard (2025, M2 intern)  
-Hugo Mutschler (2025, M2 intern)  
-Timothée Salzat-Hervouette (2024, M2 intern)  
-Emma Bouvet (2024, M2 intern)  
-Marija Petrovic (2024, L2 intern)  
-Elham Ghobadpour (2020-2024, PhD student/postdoc)  
-Lucas Etourneau (2021-2024, PhD student)  
-Zakaria Tougui (2023, M2 intern)  
-Emma Bouvet (2023, M1 intern)  
-Abdoulaye Diouma Sow (2023, M2 intern)  
-Sophal Thear (2023, M2 intern)  
-Claudia Mulat (2023, L1 intern)  
-Mathilde Escleyne (2023, L2 intern)  
-Fatoumata Mangane (2023, M2 intern)  
-Suraj Kanwar (2023, M1 intern)  
-Benoit Sauret (2022, M2 intern)  
-Duc-Anh Do (2022, intern)  
-Flora Gaudillière (2021, intern)  
-Renato Augusto Antoniassi Battistin (2021, M1 intern)  
-Vu-Lam Dang (2021, intern)  
-William Schmitt (2021, PhD student)  
-Qiqi He (2020, M2 intern)  
-Safa Berraies (2019, M2 intern)  
-Morgane Roger-Margueritat (2019&2022, L3&M2 intern)  
-Clothilde Chenal (2018, L3 intern)  
+Vadim Bertrand (2023), Master student, Multiomic data integration
+
+Clémentine Décamps (2018-2021), PhD, Computational biology of cancer epigenetics
+
+Slim Karkar (2020-2021), Postdoc, Multiomic data integration and tumor heterogeneity quantification 
+
+Yasmina Kermezly (2020-2021), Postdoc, Single-cell based tumor heterogeneity deconvolution
+
+Fabien Quinquis (2021), Master student, Genetic regulation of tumor heterogeneity
+
+Alexis Arnaud (2020), Engineer, data challenge (financed by the Data institute of grenoble)
+
+Milan Jacobi (2019), Master student, DNA methylation statistical analysis
+
+Bahareh Afshinpour (2019), Engineer, DNA methylation data treatment & analysis
+
+Raphael Bacher (2018), Engineer, data challenge (financed by the Data institute of grenoble)
+
+Arthur Waguet (2018), Master student, Signal treatment & cancer heterogeneity
+
+Paul Terzian (2017), Master student, computational biology of cancer epigenetics
 Brian Villette (2018, intern)  
 Judith Boldt (2016, intern)  
 Loic Duquennoy (2016, intern)  
