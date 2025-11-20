@@ -10,4 +10,4 @@ lab: LIG
 team: APTIKAL
 ---
 
-*Juliette Louistisserand** is a PhD student co-supervised by Antoine Frénoy and Magali Richard. 
+**Juliette Louistisserand** is a PhD student co-supervised by Antoine Frénoy and Magali Richard. 

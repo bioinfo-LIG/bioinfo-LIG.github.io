@@ -1,8 +1,8 @@
 ---
-title: "Hugo Barbot"
-name: "Hugo Barbot"
+title: "Aurélien Tauzin"
+name: "Aurélien Tauzin"
 collection: members
-image: hugo_barbot.jpg
+image: tulip.jpg
 position: "phd_student"
 github: ""
 orcid: ""
@@ -10,4 +10,4 @@ lab: LIG
 team: APTIKAL
 ---
 
-**Hugo Barbot** is a PhD student. 
+**Aurélien Tauzin** is a PhD student. 
