@@ -1,12 +1,13 @@
-# Base image: Ruby with necessary dependencies for Jekyll
+# ...existing code...
 FROM ruby:3.2
 
-# Install dependencies
+# Install build deps and node (for jekyll assets)
 RUN apt-get update && apt-get install -y \
     build-essential \
     nodejs \
+    git \
+    libffi-dev \
     && rm -rf /var/lib/apt/lists/*
-
 
 # Create a non-root user with UID 1000
 RUN groupadd -g 1000 vscode && \
@@ -15,21 +16,19 @@ RUN groupadd -g 1000 vscode && \
 # Set the working directory
 WORKDIR /usr/src/app
 
-# Set permissions for the working directory
+# Ensure ownership (will be adjusted again after install)
 RUN chown -R vscode:vscode /usr/src/app
+
+# Copy Gemfile and install gems as root into vendor/bundle
+COPY Gemfile Gemfile.lock ./
+RUN gem install bundler:2.3.26 \
+ && bundle config set --local path 'vendor/bundle' \
+ && bundle install --jobs 4 --retry 3 \
+ && chown -R vscode:vscode /usr/src/app
 
 # Switch to the non-root user
 USER vscode
 
-# Copy Gemfile into the container (necessary for `bundle install`)
-COPY Gemfile ./
-
-
-
-# Install bundler and dependencies
-RUN gem install connection_pool:2.5.0
-RUN gem install bundler:2.3.26
-RUN bundle install
-
-# Command to serve the Jekyll site
-CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.yml,_config_docker.yml"]
+# Use bundle exec so the local gems in vendor/bundle are used at runtime
+CMD ["bundle","exec","jekyll","serve","-H","0.0.0.0","-w","--config","_config.yml,_config_docker.yml"]
+# ...existing code...
