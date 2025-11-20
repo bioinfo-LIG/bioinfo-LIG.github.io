@@ -24,6 +24,25 @@ To be noted:
 * Stored files are in the **files** folder
 * Publications are automatically listed from the **_publications** folder via the publications.md file.
 
+## Resources
+
+This template comes from [academicpages](https://academicpages.github.io/) with a tutorial [here](https://github.com/academicpages/academicpages.github.io)
+And has been tuned by Nelle Varoquaux for the [CompBio@TrEE](https://github.com/TrEE-TIMC/compbio) group.
+
+## Running localy
+
+Using Docker
+You can use the provided Dockerfile to build a container that will run the site for you if you have Docker installed.
+
+You can build and execute the container by running the following command in the repository:
+
+```
+chmod -R 777 .
+docker compose up
+/Applications/Docker.app/Contents/Resources/bin/docker compose up #Alternative
+```
+
+You should now be able to access the website from localhost:4000.
 
 ## Adding publications
 
