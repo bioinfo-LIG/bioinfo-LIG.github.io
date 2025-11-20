@@ -3,7 +3,7 @@
 * Log into your github account and make sure the computer you are on has been listed through a ssh key
 * Clone the repo:
 
-`git clone git@github.com:magrichard/bioinfo-LIG.git`
+`git clone git@github.com:bioinfo-LIG/bioinfo-LIG.github.io.git`
 
 
 Now the fun can start!
