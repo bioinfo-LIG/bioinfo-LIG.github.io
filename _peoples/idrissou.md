@@ -1,13 +1,13 @@
 ---
-title: "Hugo Barbot"
-name: "Hugo Barbot"
+title: "Arafate Idrissou"
+name: "Arafate Idrissou""
 collection: members
-image: hugo_barbot.jpg
+image: tulip.png
 position: "phd_student"
 github: ""
 orcid: ""
-lab: LIG
-team: APTIKAL
+lab: LIG & CIML
+team: APTIKAL & DALOD
 ---
 
-**Hugo Barbot** is a PhD student. 
+**Arafate Idrissou** is a PhD student in computational immunology. He is co-supervised by Magali Richard and Marc Dalod.
