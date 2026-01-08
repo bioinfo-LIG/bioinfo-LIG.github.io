@@ -2,7 +2,6 @@
 title: "Phuong Thao Chu"
 name: "Phuong Thao Chu"
 collection: members
-image: lamothe.jpeg
 position: "Study engineer"
 lab: LIG
 team: Aptikal
