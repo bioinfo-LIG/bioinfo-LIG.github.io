@@ -1,11 +1,12 @@
 ---
-title: "Antoine Frenoy"
-name: "Antoine Frenoy"
+title: "Antoine Frénoy"
+name: "Antoine Frénoy"
 collection: members
 image: frenoy.jpeg
 position: "Permanent researcher"
-lab: TIMC
-team: MAGe
+website: "https://perso.crans.org/frenoy"
+lab: LIG
+team: Aptikal
 ---
 
-Antoine is a research faculty who does cool stuff! He is currently a visiting assistant professor at the Laboratoire d'Informatique de Grenoble.
+Antoine Frénoy is an assistant professor in evolutioray biology and computer science. His main research interests include computational models for evolutionary dynamics, microbial communities, fitness landscapes and effect of mutations. He was part of the TIMC lab between 2019 and 2025, and joined the LIG (team Aptikal) in january 2026. 

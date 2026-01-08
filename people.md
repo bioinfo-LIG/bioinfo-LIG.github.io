@@ -12,14 +12,14 @@ subtitle: More about us…
     {% endif %}
 {% endfor %}
 
-## Postdoctoral researcher 
+## Postdoctoral researchers
 
 No post-docs are currently in the lab!
 
-## Research engineer 
+## Research and study engineers
 
 {% for post in site.peoples %}
-    {% if post.position == "Research engineer" %}
+    {% if post.position == "Research engineer" or post.position == "Study engineer "%}
         {% include archive-people.html %}
     {% endif %}
 {% endfor %}
@@ -40,25 +40,43 @@ No interns are currently in the lab!
 
 ## Alumni
 
-Vadim Bertrand (2023), Master student, Multiomic data integration
+PhD students:
 
-Clémentine Décamps (2018-2021), PhD, Computational biology of cancer epigenetics
+- Florence Pittion (2022-2025), Analyse de médiation en haute dimension 
+- Clémentine Décamps (2018-2021), Computational biology of cancer epigenetics
+- Laura Turchi (2020-2023), co-advised with François Parcy, Machine learning for gene regulation in plants 
+- Nagi Debbah (2021-2024), co-avdised with John Rendu and Aline Thomas, Predicting effect of variants in a human protein
 
-Slim Karkar (2020-2021), Postdoc, Multiomic data integration and tumor heterogeneity quantification 
+Postdocs:
 
-Yasmina Kermezly (2020-2021), Postdoc, Single-cell based tumor heterogeneity deconvolution
+- Elise Amblard (2022-2025)
+- Slim Karkar (2020-2021), Multiomic data integration and tumor heterogeneity quantification 
+- Yasmina Kermezly (2020-2021), Single-cell based tumor heterogeneity deconvolution
 
-Fabien Quinquis (2021), Master student, Genetic regulation of tumor heterogeneity
+Engineers:
 
-Alexis Arnaud (2020), Engineer, data challenge (financed by the Data institute of grenoble)
+- Alexis Arnaud (2020), data challenge (financed by the Data institute of grenoble)
+- Bahareh Afshinpour (2019), DNA methylation data treatment & analysis
+- Raphael Bacher (2018), data challenge (financed by the Data institute of grenoble)
 
-Milan Jacobi (2019), Master student, DNA methylation statistical analysis
+Master students:
 
-Bahareh Afshinpour (2019), Engineer, DNA methylation data treatment & analysis
+- Hugo Legrand (2025), Evolutionary dynamics on empirical fitness landscape
+- Loic Marmey (2024), Deep learning models for predicting effect of mutations
+- Raphael Malak (2023), Bayesian parameter inference for population dynamics
+- Vadim Bertrand (2023), Multiomic data integration
+- Lucas Morin (2020), Machine learnig to analyse environmental microbiomes
+- Milan Jacobi (2019), DNA methylation statistical analysis
+- Arthur Waguet (2018), Signal treatment & cancer heterogeneity
+- Paul Terzian (2017),  computational biology of cancer epigenetics
+- Fabien Quinquis (2021), Genetic regulation of tumor heterogeneity
 
-Raphael Bacher (2018), Engineer, data challenge (financed by the Data institute of grenoble)
+Undergraduate students:
 
-Arthur Waguet (2018), Master student, Signal treatment & cancer heterogeneity
+- Romane Gauthier (2025), computational study of evolutionary dynamics
+- Andrei Kalinin (2024), computational study of evolutionary dynamics
+- Lukas Joly (2023), computational study of evolutionary dynamics
+- Rose Marin (2021), cooperative study of evolutionary dynamics
 
-Paul Terzian (2017), Master student, computational biology of cancer epigenetics
+
 
