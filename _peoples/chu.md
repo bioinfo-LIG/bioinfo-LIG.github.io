@@ -7,4 +7,4 @@ lab: LIG
 team: Aptikal
 ---
 
-Phuong Thao Chu is a study engineer in the team since January 2026.
+**Phuong Thao Chu** is a study engineer in the team since January 2026.
