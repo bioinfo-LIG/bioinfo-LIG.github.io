@@ -19,7 +19,7 @@ No post-docs are currently in the lab!
 ## Research and study engineers
 
 {% for post in site.peoples %}
-    {% if post.position == "Research engineer" or post.position == "Study engineer "%}
+    {% if post.position == "Research engineer" or post.position == "Study engineer" %}
         {% include archive-people.html %}
     {% endif %}
 {% endfor %}
