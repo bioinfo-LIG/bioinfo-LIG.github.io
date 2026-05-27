@@ -10,4 +10,4 @@ lab: TIMC
 team: MAGe
 ---
 
-**[Lucie Lamothe](https://www.timc.fr/lucie-lamothe)** is a research engineer working on improving deconvolution methods for Pancreatic ductal adenocarcinoma (PDAC) data, and data generation for data challenges. She joined the Methods and Algorithm for Genomics (MAGe) team in january 2024. 
+**[Lucie Lamothe](https://www.timc.fr/lucie-lamothe)** is a research engineer supervised by Magali Richard, working on improving deconvolution methods for Pancreatic ductal adenocarcinoma (PDAC) data, and data generation for data challenges. She joined the team in january 2024. 

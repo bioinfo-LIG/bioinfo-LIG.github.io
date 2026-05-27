@@ -10,4 +10,4 @@ lab: LIG
 team: APTIKAL
 ---
 
-**Hugo Barbot** is a PhD student. 
+**Hugo Barbot** is a PhD student cosupervised by Magali Richard, David Causeur (Agro-Campus, Rennes) and Yuna Blum (IGDR, Rennes), on the topic: “Statistical methods for deconvolution”.
