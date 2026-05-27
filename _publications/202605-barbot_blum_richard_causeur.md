@@ -5,7 +5,7 @@ journal: "Moderation on ArXiv"
 collection: publications
 permalink: /publication/202605-barbot_blum_richard_causeur
 venue: ''
-citation: 'Hugo Barbot, Yuna Blum, Magali Richard, David Causeur. <b>Inferring cellular heterogeneity with mixture models for DNA methylation rates</b> 2026.'
+citation: 'Hugo Barbot, Yuna Blum, Magali Richard, David Causeur. <b>Inferring cellular heterogeneity with mixture models for DNA methylation rates</b>, <i>in moderation on arxiv (preprint)</i>, 2026.'
 year: '2026'
 ISSN: 
 Pages: 

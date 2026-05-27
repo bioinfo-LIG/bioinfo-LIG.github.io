@@ -5,7 +5,7 @@ journal: "BioRxiv"
 collection: publications
 permalink: /publication/202509-pittion_amblard_devijver_samson
 venue: ''
-citation: '<b> HDMAX2-surv: high-dimensional mediation analysis of survival data with application to pancreatic cancer</b>. Florence Pittion, Elise Amblard, Emilie Devijver, Adeline Samson, Nelle Varoquaux, Magali Richard. bioRxiv 2025.09.09.675033v3; doi: https://doi.org/10.1101/2025.09.09.675033v3'
+citation: '<b> HDMAX2-surv: high-dimensional mediation analysis of survival data with application to pancreatic cancer</b>. Florence Pittion, Elise Amblard, Emilie Devijver, Adeline Samson, Nelle Varoquaux, Magali Richard., <i>biorxiv (preprint)</i>  2025.09.09'
 year: '2025'
 ISSN: 2692-8205
 Pages: 2025.09.09.675033v3

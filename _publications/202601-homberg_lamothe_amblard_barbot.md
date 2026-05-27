@@ -5,7 +5,7 @@ journal: "HAL"
 collection: publications
 permalink: /publication/202601-homberg_lamothe_amblard_barbot
 venue: ''
-citation: 'Nicolas Homberg, Lucie Lamothe, Elise Amblard, Hugo Barbot, Morgane Térézol, et al. <b>How to organise a scientific competition to benchmark methods and algorithms in computational biology?</b> 2026. ⟨hal-05445539⟩'
+citation: 'Nicolas Homberg, Lucie Lamothe, Elise Amblard, Hugo Barbot, Morgane Térézol, et al. <b>How to organise a scientific competition to benchmark methods and algorithms in computational biology?</b> 2026. ⟨preprint hal-05445539⟩'
 year: '2026'
 ISSN: 
 Pages: 

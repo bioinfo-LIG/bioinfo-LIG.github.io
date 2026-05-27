@@ -5,7 +5,7 @@ journal: "Moderation on ArXiv"
 collection: publications
 permalink: /publication/202605-barbot_homberg_amblard_lamothe
 venue: ''
-citation: 'Hugo Barbot, Elise Amblard, Nicolas Homberg, Lucie Lamothe et al, <b>On the Promises and Limits of Multi-omics Integration for Deconvolution: The HADACA3 Benchmark</b> 2026.'
+citation: 'Hugo Barbot, Elise Amblard, Nicolas Homberg, Lucie Lamothe et al, <b>On the Promises and Limits of Multi-omics Integration for Deconvolution: The HADACA3 Benchmark</b>, <i>in moderation on arxiv (preprint)</i> , 2026.'
 year: '2026'
 ISSN: 
 Pages: 
