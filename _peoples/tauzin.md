@@ -2,7 +2,6 @@
 title: "Aurélien Tauzin"
 name: "Aurélien Tauzin"
 collection: members
-image: tulip.jpg
 position: "phd_student"
 github: ""
 orcid: ""

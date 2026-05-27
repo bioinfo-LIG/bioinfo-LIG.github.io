@@ -1,8 +1,8 @@
 ---
 title: "Arafate Idrissou"
-name: "Arafate Idrissou""
+name: "Arafate Idrissou"
 collection: members
-image: tulip.png
+image: photo_Arafate.jpg
 position: "phd_student"
 github: ""
 orcid: ""
