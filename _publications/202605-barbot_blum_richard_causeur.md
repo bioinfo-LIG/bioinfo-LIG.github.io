@@ -1,16 +1,16 @@
 ---
 title: "Inferring cellular heterogeneity with mixture models for DNA methylation rates"
 authors: "H. Barbot, Y. Blum, <b>M. Richard</b>, D. Causeur"
-journal: "Moderation on ArXiv"
+journal: "ArXiv"
 collection: publications
 permalink: /publication/202605-barbot_blum_richard_causeur
 venue: ''
-citation: 'Hugo Barbot, Yuna Blum, Magali Richard, David Causeur. <b>Inferring cellular heterogeneity with mixture models for DNA methylation rates</b>, <i>in moderation on arxiv (preprint)</i>, 2026.'
+citation: 'Hugo Barbot, Yuna Blum, Magali Richard, David Causeur. <b>Inferring cellular heterogeneity with mixture models for DNA methylation rates</b>, <i>in moderation on arxiv (preprint)</i>, 2026, arXiv:2606.04175'
 year: '2026'
 ISSN: 
 Pages: 
 Section:
-paperurl: '/assets/papers/Mixture_NNBR_SiM.pdf'
+paperurl: 'https://arxiv.org/abs/2606.04175'
 type: 'Preprint'
 ---
 

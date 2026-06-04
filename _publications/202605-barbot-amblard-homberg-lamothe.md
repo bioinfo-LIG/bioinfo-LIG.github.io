@@ -1,16 +1,16 @@
 ---
 title: "On the Promises and Limits of Multi-omics Integration for Deconvolution: The HADACA3 Benchmark"
 authors: "H. Barbot, E. Amblard, N. Homberg, L. Lamothe, M. Térézol, HADACA3 Consortium, M. Ayadi, A. Baurès, Y. Kermezli, C. Herrmann, S. Dejean, L. Spinelli, D. Causeur, F. Chuffart, A. Baudot, Y. Blum,  <b>M. Richard</b>"
-journal: "Moderation on ArXiv"
+journal: ArXiv"
 collection: publications
 permalink: /publication/202605-barbot_homberg_amblard_lamothe
 venue: ''
-citation: 'Hugo Barbot, Elise Amblard, Nicolas Homberg, Lucie Lamothe et al, <b>On the Promises and Limits of Multi-omics Integration for Deconvolution: The HADACA3 Benchmark</b>, <i>in moderation on arxiv (preprint)</i> , 2026.'
+citation: 'Hugo Barbot, Elise Amblard, Nicolas Homberg, Lucie Lamothe et al, <b>On the Promises and Limits of Multi-omics Integration for Deconvolution: The HADACA3 Benchmark</b>, <i>in moderation on arxiv (preprint)</i> , 2026, hal-05627528'
 year: '2026'
 ISSN: 
 Pages: 
 Section:
-paperurl: '/assets/papers/2026_HADACA3_neurips_preprintversion.pdf'
+paperurl: 'https://hal.science/hal-05627528'
 type: 'Preprint'
 ---
 
