@@ -36,16 +36,18 @@ No post-docs are currently in the lab!
 
 ## Interns
 
-No interns are currently in the lab!
+- Ahmed Bennasser, M1, machine learning for microbiome
+- Enzo Goldstein, M1, evolution of mutation rate in computational models
+- Emilie Riviere, L3, computational models for evolutionary dynamics
 
 ## Alumni
 
 PhD students:
 
-- Florence Pittion (2022-2025), Analyse de médiation en haute dimension 
-- Clémentine Décamps (2018-2021), Computational biology of cancer epigenetics
-- Laura Turchi (2020-2023), co-advised with François Parcy, Machine learning for gene regulation in plants 
+- Florence Pittion (2022-2025), High-dimensional mediation analysis
 - Nagi Debbah (2021-2024), co-avdised with John Rendu and Aline Thomas, Predicting effect of variants in a human protein
+- Laura Turchi (2020-2023), co-advised with François Parcy, Machine learning for gene regulation in plants 
+- Clémentine Décamps (2018-2021), Computational biology of cancer epigenetics
 
 Postdocs:
 
@@ -78,5 +80,7 @@ Undergraduate students:
 - Lukas Joly (2023), computational study of evolutionary dynamics
 - Rose Marin (2021), cooperative study of evolutionary dynamics
 
+Others:
+- John Rendu (2025-2026), visiting professor, MCU PH at CHUGA (molecular biology and biochemistry).
 
 
